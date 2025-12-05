@@ -1,3 +1,9 @@
+###IMPORTANT NOTICE
+
+DOWNLOAD kokoro-v1_0.pth file into kokoro folder 
+
+https://huggingface.co/hexgrad/Kokoro-82M/blob/main/kokoro-v1_0.pth
+
 # kokoro
 
 An inference library for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M). You can [`pip install kokoro`](https://pypi.org/project/kokoro/).
