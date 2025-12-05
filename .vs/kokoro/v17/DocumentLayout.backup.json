@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\GithubProjects\\kokoro\\",
+  "WorkspaceRootPath": "C:\\GithupProjects\\kokoro\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -13,7 +13,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",

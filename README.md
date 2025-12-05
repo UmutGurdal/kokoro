@@ -1,8 +1,10 @@
 ### IMPORTANT NOTICE
 
-DOWNLOAD kokoro-v1_0.pth file into kokoro folder 
+DOWNLOAD kokoro-v1_0.pth file into kokoro folder -> https://huggingface.co/hexgrad/Kokoro-82M/blob/main/kokoro-v1_0.pth
 
-https://huggingface.co/hexgrad/Kokoro-82M/blob/main/kokoro-v1_0.pth
+DOWNLOAD e-SpeakNG -> https://github.com/espeak-ng/espeak-ng/releases/download/1.51/espeak-ng-X64.msi
+
+Install required python modules -> py -m pip install soundfile numpy torch scipy phonemizer munch loguru transformers misaki num2words hf_xet spacy
 
 # kokoro
 
